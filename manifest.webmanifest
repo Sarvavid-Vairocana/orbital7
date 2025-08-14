@@ -1,0 +1,14 @@
+{
+  "name": "7-Day Orbital Pattern",
+  "short_name": "Orbital7",
+  "description": "Interactive 7-day orbital energy planner with iOS-friendly features and offline support.",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f9",
+  "theme_color": "#3b7dd8",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
