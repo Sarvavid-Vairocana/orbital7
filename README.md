@@ -21,10 +21,5 @@ Optimized for iOS and desktop browsers.
 ## Hosting
 This site is hosted with [GitHub Pages](https://pages.github.com/).
 
-To host your own:
-1. Fork or clone this repository.
-2. Place your HTML file as `index.html` in the root.
-3. Enable GitHub Pages in repo **Settings → Pages**.
-
 ---
 *Created with ❤️ to support consistent, high-tide surges of sexual-energy practice throughout the week.*
